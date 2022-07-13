@@ -10,6 +10,8 @@ const styles = {
   '--color-border': '',
   '--color-button-bg': '',
   '--color-button-text': '',
+  '--color-chat-bg': '',
+  '--color-chat-text': '',
   '--color-danger': '',
   '--color-footer-bg': '',
   '--color-footer-text': '',
