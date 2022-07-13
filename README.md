@@ -18,6 +18,7 @@ const styles = {
   '--color-header-text': '',
   '--color-header-text-bright': '',
   '--color-link': '',
+  '--color-logo': '',
   '--color-message-permalink': '',
   '--color-modal-dialog-bg': '',
   '--color-modal-overlay-bg': '',
