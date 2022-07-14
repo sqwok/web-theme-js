@@ -2,6 +2,8 @@
 A function you can use to build a new theme for the Sqwok web app.
 
 # the function.
+Simply run this function inside the browser developer tools console.
+
 ```
 const styles = {
   '--color-avatar-bg': '',
