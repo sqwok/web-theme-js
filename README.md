@@ -72,7 +72,7 @@ for (const style in styles) {
 ```
 
 For example:
-to change the background the core colors of the site:
+to change only the core colors of the site:
 ```
   '--color-background': 'blue',
   '--color-border': 'hsl(220deg 50% 10%)',
