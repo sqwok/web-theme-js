@@ -22,6 +22,7 @@ const styles = {
   '--color-footer-text': '',
   '--color-footer-text-bright': '',
   '--color-header-bg': '',
+  '--color-header-shadow': '',
   '--color-header-text': '',
   '--color-header-text-bright': '',
   '--color-link': '',
