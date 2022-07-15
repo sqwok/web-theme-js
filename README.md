@@ -72,11 +72,13 @@ for (const style in styles) {
 ```
 
 For example:
-to change the background and main text colors simply do something like:
+to change the background the core colors of the site:
 ```
-  '--color-header-bg': '#be5ae4',
   '--color-background': 'blue',
-  '--color-text': 'yellow',
+  '--color-border': 'hsl(220deg 50% 10%)',
+  '--color-shadow': 'green',
+  '--color-text': '#be5ae4',
+  '--color-text-dim': 'grey',
 ```
 
 To experiment with new theme changes, simply add valid css colors to any of the properties and run the function again.
