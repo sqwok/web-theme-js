@@ -67,7 +67,7 @@ const styles = {
 const el = document.documentElement;
 
 for (const style in styles) {
-  el.style.setProperty(style, styles[style]);
+  el.style.setProperty(style, styles[style] || undefined);
 }
 ```
 
