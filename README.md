@@ -11,6 +11,7 @@ const styles = {
   '--color-background': '',
   '--color-border': '',
   '--color-button-bg': '',
+  '--color-button-bg-dim': '',
   '--color-button-text': '',
   '--color-chat-bg': '',
   '--color-chat-border': '',
